@@ -1,0 +1,15 @@
+name: mqtt_demo
+description: A web server built using the shelf package.
+# version: 1.0.0
+# homepage: https://www.example.com
+# author: felix <felixalejandro@outlook.com>
+
+environment:
+  sdk: '>=2.4.0 <3.0.0'
+
+dependencies:
+  args: ^1.5.0
+  mqtt_client: ^5.5.3
+
+
+dev_dependencies:
